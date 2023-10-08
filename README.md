@@ -1,7 +1,7 @@
 # ChatBot_Discord
 Hey, 
 if you want to try this chat bot for youtself on both raplit and
-vs appropriate comments are added on top aswell as on the places where you should add them
+vs appropriate comments are added on top aswell as on the places where you should make changes
 things to note before running the bot
 1.Make sure you have a working API KEY []
 2.Make sure you have a working APP ID/Token [working]
